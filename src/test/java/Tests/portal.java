@@ -36,6 +36,7 @@ public class portal {
 		d.getdropdown().click();
 		Thread.sleep(3000);
 		d.getlogout().click();
+		System.out.println("This is testing ");
 	
 	}
 
